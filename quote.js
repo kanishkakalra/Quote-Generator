@@ -1,0 +1,1 @@
+// this is the file which we can use to have our own array of quotes simply we will pass this toh the function 
